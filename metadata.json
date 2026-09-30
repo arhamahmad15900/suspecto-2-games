@@ -1,0 +1,6 @@
+{
+  "name": "Suspecto",
+  "description": "Suspecto: Real-time multiplayer social deduction drawing game. One secret word. One sneaky imposter. Draw clues, bluff your way through, and expose the suspect!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,313 @@
+{
+  "users": {
+    "usr_f33db45b8a71fb69": {
+      "id": "usr_f33db45b8a71fb69",
+      "username": "Sherlock",
+      "email": "sherlock@example.com",
+      "passwordSalt": "391eec5f01f8a4be02be062e54d25b8e",
+      "passwordHash": "6a4b791339ed20aebaa77472fa49613ca435e557b82b1d2ab72ddc923f7eda972fd0cd1c21d1ddf74100b82588ed503faeddae5ba557fac9dcfd27520116b10e",
+      "avatar": "detective",
+      "createdAt": 1790507846535,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_86061c94ddb1258a": {
+      "id": "usr_86061c94ddb1258a",
+      "username": "HostUser",
+      "email": "hostuser@game.com",
+      "passwordSalt": "3f0f9f3948cad575fb7daad9a82646b6",
+      "passwordHash": "bbfd194323425148f4191e7f080ea31f8fe77c99a022e782291177514e9545c4871868ee2c491f1b5b33fc25ac8b6dfb42efa1e4c41af3669024c16fed378785",
+      "avatar": "detective",
+      "createdAt": 1790508581388,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_2fff2daf946cf5fd": {
+      "id": "usr_2fff2daf946cf5fd",
+      "username": "DetectiveDan",
+      "email": "dan@suspecto.app",
+      "passwordSalt": "c6a5efcb33a26aeb84a2b65563d3b7cf",
+      "passwordHash": "9418c6f6371e9152ed67bab4d2283866761e9a5b1843311061548487864cdcc32eb11b4c58f97a86039e389ff4ea19967b9cadd567c5a2c5d09f70e816de5b51",
+      "avatar": "detective",
+      "createdAt": 1790510061691,
+      "stats": {
+        "gamesPlayed": 1,
+        "crewWins": 1,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_339d3d6055d9d4ac": {
+      "id": "usr_339d3d6055d9d4ac",
+      "username": "ArtistAlice",
+      "email": "alice@suspecto.app",
+      "passwordSalt": "8ff7579c26c991db495e78a24b86f301",
+      "passwordHash": "0b6bb07281381eec4c91d17f29a8f3fe4034484270405986ca29978a1c1d92d1e296294cafae093e4847478473712f5c9c4c32344c0c11f579333af780bddc0e",
+      "avatar": "artist",
+      "createdAt": 1790510061707,
+      "stats": {
+        "gamesPlayed": 1,
+        "crewWins": 1,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_47da0ba443f385d5": {
+      "id": "usr_47da0ba443f385d5",
+      "username": "SlySam",
+      "email": "sam@suspecto.app",
+      "passwordSalt": "4c61f91cf45f63aedc948c63fa9e2486",
+      "passwordHash": "d36b659692b7f544930c6e198b6f914c6b94999f9d863d15a119cf05a81655bb014d61d9be3e025afdafc35020176645b091506474039358691abaf218dfbc2d",
+      "avatar": "fox",
+      "createdAt": 1790510061718,
+      "stats": {
+        "gamesPlayed": 1,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 1,
+        "timesEliminated": 1
+      }
+    },
+    "usr_a461afdd85602ee7": {
+      "id": "usr_a461afdd85602ee7",
+      "username": "QATester_3927",
+      "email": "qatest_1790565176508@suspecto.app",
+      "passwordSalt": "bdffb428333f851445e2bae9aa0db4cf",
+      "passwordHash": "d5cc2f4f4bcad4af226874b2c5492b4e97d76247973a991f9ba36daa9f22dcf2d7f7dc9bb734e029382d31051a812163822f389e816edd8432750c06e626fcf8",
+      "avatar": "detective",
+      "createdAt": 1790565176600,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_05ab84c292d3ace7": {
+      "id": "usr_05ab84c292d3ace7",
+      "username": "ArtistBob_38",
+      "email": "artistbob_1790565176631@suspecto.app",
+      "passwordSalt": "bc9ae1dceb7fa6ee72f486087c99303e",
+      "passwordHash": "ddb2d7bbdf05e6caf81986ebbd3766ed50d3218f022cb0e455fb3d257347682df504f5724ebd5ae7ca377a00603e4e4533431a289e7f279bd58fba556aa0a1fc",
+      "avatar": "artist",
+      "createdAt": 1790565176642,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_44b95a574c0efbb5": {
+      "id": "usr_44b95a574c0efbb5",
+      "username": "NinjaNed_829",
+      "email": "ninjaned_1790565176645@suspecto.app",
+      "passwordSalt": "74f8c9b3594de1777dba04d6535c4f07",
+      "passwordHash": "d0e006042fa803ca6fa6e0a392ffac3d2a24e2e228f7b054665e2f9dce6802089d3c1d2ca718b86dbc0c783f1c9dd6f88fc9ba3fd25a9da53ae5b4ae619e6d34",
+      "avatar": "ninja",
+      "createdAt": 1790565176655,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_8a07b70b780e303b": {
+      "id": "usr_8a07b70b780e303b",
+      "username": "QATester_1445",
+      "email": "qatest_1790565200994@suspecto.app",
+      "passwordSalt": "9563499cf9f7def2c4bca3c883accaa2",
+      "passwordHash": "18f8d5e5c70d806e9b229b0057385f5a732bd710d4a580f5b12ec617979292a0dec587fef6aae1a0a7036b64c3ab8d3a5c5430862a0cfad7fec0c1ff61b0fb72",
+      "avatar": "detective",
+      "createdAt": 1790565201100,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_b27f426bebb5f078": {
+      "id": "usr_b27f426bebb5f078",
+      "username": "ArtistBob_434",
+      "email": "artistbob_1790565201149@suspecto.app",
+      "passwordSalt": "c8a476f18183da5d9e984c861a3c529c",
+      "passwordHash": "59d159112a0b525d46ba5b3e194f481300f0313c4b7b240a420529d5ad96c945b81a3429aaf1d1ca8b4ad2b110a96d78137d4ca4fcd5fdc2a3a1548c16dca293",
+      "avatar": "artist",
+      "createdAt": 1790565201161,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_c089730654f6651e": {
+      "id": "usr_c089730654f6651e",
+      "username": "NinjaNed_854",
+      "email": "ninjaned_1790565201164@suspecto.app",
+      "passwordSalt": "b2752f1d85d70a3e8b4373bb8a83dab9",
+      "passwordHash": "3a1f9f261c98067e5af0fcd1b74c056e21e7afe7f8463a3b7c39145575e061ce37721167128ac5226585b6c9124068e1271f1752bc3cf8a1a0c9b5f33dd139fa",
+      "avatar": "ninja",
+      "createdAt": 1790565201176,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_d1743cb1897e19d3": {
+      "id": "usr_d1743cb1897e19d3",
+      "username": "QATester_5428",
+      "email": "qatest_1790565238194@suspecto.app",
+      "passwordSalt": "6cb1872e2342575da1aa1de61d87252a",
+      "passwordHash": "e2274e62ff9671a2a0b4892c4870c69accf341998bfd456dc68363d7f3b5eec63cf1c84dc36b7009b68656a8f5e9a59bcf2b50d6e6474f90e7df78edf3ae8ee4",
+      "avatar": "detective",
+      "createdAt": 1790565238276,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_c33e1b5461424577": {
+      "id": "usr_c33e1b5461424577",
+      "username": "ArtistBob_281",
+      "email": "artistbob_1790565238309@suspecto.app",
+      "passwordSalt": "f885d08f9f0bd8960eb94934dff6ff53",
+      "passwordHash": "f31b3e3f91ea9f9dadc4e534107206601a9ea96a01cff23968da210e06bbda9e5019bfc8433407d215fde82183f704d58dbe9abb83f7fbf68d2858e2bbd71e13",
+      "avatar": "artist",
+      "createdAt": 1790565238325,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_889ba6f689c3c93d": {
+      "id": "usr_889ba6f689c3c93d",
+      "username": "NinjaNed_109",
+      "email": "ninjaned_1790565238330@suspecto.app",
+      "passwordSalt": "8a9a554a9ce74d14aace78d19c5ec263",
+      "passwordHash": "c5261e5bd55e94424dd940c4674f30c4e90156fd76750a31160c49dafe3d1c88d3e121985c60bcbd1f0ec0b1d7140f7a93591cb9fa8506f2c273817e7fcba57b",
+      "avatar": "ninja",
+      "createdAt": 1790565238349,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    },
+    "usr_34eca96b99d5d2ca": {
+      "id": "usr_34eca96b99d5d2ca",
+      "username": "aaa",
+      "email": "aa@gmail.com",
+      "passwordSalt": "04c806db45e9043414363bc82a56d8e7",
+      "passwordHash": "a470a60d2e8349bcb210eaee54db37cd3c4c61750a39d24a977b57235b4d0a96cb3ac2ad1a8de8a95c93c41cc3cc515de49d4426ec168b75a987770e9b9d0da4",
+      "avatar": "detective",
+      "createdAt": 1790757409139,
+      "stats": {
+        "gamesPlayed": 0,
+        "crewWins": 0,
+        "imposterWins": 0,
+        "timesImposter": 0,
+        "timesEliminated": 0
+      }
+    }
+  },
+  "sessions": {
+    "tok_a9adbb750c3dc9a10391725cd51b0f6929f201c9f004fbdb": "usr_f33db45b8a71fb69",
+    "tok_af746871e86e10b19fcf25a303e956fd0c9c400ec8240912": "usr_86061c94ddb1258a",
+    "tok_c9592bd878f3047ce101d0a4d2ba4eae5a8502487618da3b": "usr_2fff2daf946cf5fd",
+    "tok_efd9c796c39ad5295fed0de4994f2bce0129884f44f9012a": "usr_339d3d6055d9d4ac",
+    "tok_d3d71a3064ab5f3a66a479f3debfb5cbfe8c4e701aec0f15": "usr_47da0ba443f385d5",
+    "tok_03479b8eca34af77bfe4b5d26f41f00f55f3df47f0054350": "usr_2fff2daf946cf5fd",
+    "tok_20a564d2a39283b85302fe8f5f3041c8a0392813e7f01096": "usr_339d3d6055d9d4ac",
+    "tok_cc2d2a86cea83bd95bebe5a0f7213cd132df22b560ec0d57": "usr_47da0ba443f385d5",
+    "tok_186a353797fbc66f2f7cf08fe055fb7843f0c98d10aa2e35": "usr_2fff2daf946cf5fd",
+    "tok_bc26b32fa9effb83147655f52a0ccb84ff9bb17dc7b44ac5": "usr_339d3d6055d9d4ac",
+    "tok_c8773909996c2085cbd0d0408c2a2e0f68186d59601e6ee0": "usr_47da0ba443f385d5",
+    "tok_b6b3d5901c0882984c022cc655ae05e93614155433e2fbca": "usr_a461afdd85602ee7",
+    "tok_cbcafb0c9ec48e1cb742227e9b5a017624da9631689e490f": "usr_05ab84c292d3ace7",
+    "tok_1f4f051f8fc84be9b64e3401a6a9c3376fcace11bbea3c92": "usr_44b95a574c0efbb5",
+    "tok_442e29672a35358473794a8d4ede97defc2c496c3ebea652": "usr_8a07b70b780e303b",
+    "tok_ac7061f74d88bacae69c09665ca8f280600ff27061356b15": "usr_b27f426bebb5f078",
+    "tok_5b29c7b374c037f92cc311e87ec3b81ba5b88a4f03dd917d": "usr_c089730654f6651e",
+    "tok_799bc1700d775f4ca94932a66f93aea33ae68343b9716128": "usr_d1743cb1897e19d3",
+    "tok_ed0997dfa8ff21412e8448f5f84eb7e407ac9b0eab9552a2": "usr_c33e1b5461424577",
+    "tok_2b98cedba1a973eb15bd78560b6b190ccfae36ff1296ff5a": "usr_889ba6f689c3c93d",
+    "tok_76d33a8db88ef389bc059ef1c8a111596beb8f232239437c": "usr_34eca96b99d5d2ca"
+  },
+  "matchHistory": [
+    {
+      "id": "match_c3d21fa67cfe",
+      "roomId": "room_b373bffcf6b2",
+      "timestamp": 1790510102556,
+      "durationSeconds": 38,
+      "secretWord": "Kangaroo",
+      "category": "Animals",
+      "winner": "CREW",
+      "imposters": [
+        {
+          "id": "usr_47da0ba443f385d5",
+          "name": "SlySam"
+        }
+      ],
+      "playersCount": 3,
+      "eliminatedPlayers": [
+        {
+          "name": "SlySam",
+          "role": "IMPOSTER"
+        }
+      ]
+    },
+    {
+      "id": "match_f7843970701e",
+      "roomId": "room_26bb99ec6814",
+      "timestamp": 1790507869539,
+      "durationSeconds": 7,
+      "secretWord": "Turtle",
+      "category": "Animals",
+      "winner": "IMPOSTER",
+      "imposters": [
+        {
+          "id": "p_host",
+          "name": "HostDetective"
+        }
+      ],
+      "playersCount": 3,
+      "eliminatedPlayers": [
+        {
+          "name": "HostDetective",
+          "role": "IMPOSTER"
+        }
+      ]
+    }
+  ]
+}
